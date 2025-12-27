@@ -1,6 +1,6 @@
 # Customer Support Ticket Triage System
 
-## Week-1 Internship Project
+
 
 This project builds a rule-based customer support ticket triage system.
 It reads customer messages, cleans text, classifies issues, assigns priority,
